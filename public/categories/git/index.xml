@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on Vm-Medium</title>
+    <link>http://192.168.1.14:1313/categories/git/</link>
+    <description>Recent content in Git on Vm-Medium</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2018, veeraiah Madamanchi  all rights reserved.</copyright><atom:link href="http://192.168.1.14:1313/categories/git/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
